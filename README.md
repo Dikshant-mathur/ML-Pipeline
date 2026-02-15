@@ -39,8 +39,8 @@ Confusion matrix visualization
 Classification report  
 
 ## f. Deployment
-**Live App:** https://ml-pipeline-playground-v2-uubjnabxjlynbqbjvhsb3j.streamlit.app/
-**GitHub:** https://github.com/Ayushisharma5/ML-Pipeline-Playground-v2
+**Live App:** https://ml-pipeline-sybpd52wqez5nz8szemcjn.streamlit.app/
+**GitHub:** https://github.com/Dikshant-mathur/ML-Pipeline.git
 
 ## g. BITS Virtual Lab Proof
 ![Execution Screenshot](bits_lab_execution.png)
